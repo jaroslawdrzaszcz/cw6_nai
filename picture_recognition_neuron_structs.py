@@ -1,6 +1,6 @@
 ########################################################################################################################
 # Examples of neuron network for digit recognition from pictures.                                                      #
-# Created by Jarosław Drząszcz(s16136).                                                                                #
+# Created by PraemtsJarosław Drząszcz(s16136) and Przemysław Białczak(s16121)                                          #
 ########################################################################################################################
 
 from sklearn import datasets

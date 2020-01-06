@@ -1,6 +1,6 @@
 ########################################################################################################################
 # Examples of neuron network for irises data.                                                                          #
-# Created by Jarosław Drząszcz(s16136).                                                                                #
+# Created by Jarosław Drząszcz(s16136) and Przemysław Białczak(s16121).                                                #
 ########################################################################################################################
 
 from sklearn import datasets
